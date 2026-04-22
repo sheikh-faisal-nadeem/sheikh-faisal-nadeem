@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; padding-bottom:50px;">
 
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
